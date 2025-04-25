@@ -50,7 +50,7 @@ To write a C Program to implement Prim's Algorithm for finding Total Cost of spa
 ## Program:
 ```
 /*
-Program to find and display the priority of the operator in the given Postfix expression
+Program to implement Prim's Algorithm for finding Total Cost of spanning tree.
 Developed by: T.KAVINAJAI
 RegisterNumber:  212223100020
 */
